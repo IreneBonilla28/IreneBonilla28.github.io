@@ -10,15 +10,17 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Paper Flight
 
-**Web:**   PaperFlight.github.io
+**Web:**   
+IreneBonilla28.github.io 
 
 **Autor:**  Irene Bonilla Sánchez
 
-**Resumen** : Este proyecto consite en avanzar siendo un avión de papel. Busca como
+**Resumen** : Este proyecto consiste en avanzar siendo una carta transfromada en avión de papel. Busca como objetivo llegar al remitente de la carta, y para avanzar hay que conseguir todas las strellas de cada pantalla.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**   juego 
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** :  
+![Logotipo](https://github.com/IreneBonilla28/IreneBonilla28.github.io/assets/135323759/e04afe27-2eaa-4a42-a367-c67acb92bcee)
 
 (insertar imágenes a resolucion de 100px alto)
 
@@ -26,17 +28,16 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 17.586KB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 02/06/2023
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** 
 
-- Github:
-- Twitter
-- Instagram
+- Github:IreneBonilla28.github.io 
+
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
