@@ -44,7 +44,7 @@ IreneBonilla28.github.io
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-Mi idea consistía en ilustrar un viaje de un avión de papel por el cielo. Este, contiene un mensaje que quieredando a entender que se prolonga en el tiempo ya 
+Mi idea consistía en ilustrar el viaje de un avión de papel por el cielo. Este, contiene un mensaje que quiere llegar a su destino. Tras vagar entre las nubes durante días, el juego concluye si llegas a la persona adecuada. 
 ![story](https://github.com/IreneBonilla28/IreneBonilla28.github.io/assets/135323759/17bfa22f-5a62-435c-8387-514eab0a590a)
 ![1685714743032](https://github.com/IreneBonilla28/IreneBonilla28.github.io/assets/135323759/60b8b248-48d8-4162-ac21-b5754f23a29c)
 
