@@ -75,9 +75,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
+- https://twitter.com/ConradRoset?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
 
 
 **Motivación de la propuesta** 
@@ -88,7 +86,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a público de todas las edades. Tiene unos controles muy fácil de usar, por lo que se recomienda a todo el mundo.
+- Orientado a público de todas las edades. Tiene unos controles muy fáciles de usar, por lo que no supone un problema. Es muy intuitivo.
 
 
 
@@ -96,29 +94,30 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-He diseñado todos los elementos del videojuego, por lo que la parte más complicada ha sido la de progrmación.
-Los diseños de los botones y animaciones, las hice con photoshop.
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+He diseñado todos los elementos del videojuego, por lo que la parte más complicada ha sido la de programación.
+Los diseños de los botones y animaciones las hice con photoshop.
+- Juego: 5 niveles para superar consiguiendo las estrellas.
+- Video: Fragmentos del personaje. Tiempo tranzcurrido mientra el avión viaja.
+- Instrucciones y ayuda al usuario: Tutorial explicativo previo al primer nivel. Se puede saltar.
+- Menús y elementos de navegación: Contiene diversos botones con texto para realizar las funciones correspondientes del juego.
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Al exportar el juego los créditos no se reproducen correctamente. Además, el sonido que en principio era exclusivo para las estrellas se reproduce por todo el nivel.
+En cuanto al link de github, no es posible ver ni jugar al juego. 
 
 
 
 # 4. Conclusiones 
-
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
+Este proyecto me ha gustado mucho hacerlo. Al principio era (y sigue siendo) confuso y complicado, pero poco a poco he ido aprendiendo a realizar las funciones básicas.
+Me hubiera gustado poder profundizar más en la historia que planteo al inicio, acompañándolo de ilustraciones.
 
 
+
+
+![g 2](https://github.com/IreneBonilla28/IreneBonilla28.github.io/assets/135323759/94cf09b1-c014-4517-b152-8cc12bd3344b)
 
 
 
