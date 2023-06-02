@@ -26,11 +26,11 @@ IreneBonilla28.github.io
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**    Google Chrome y Firefox
+**Probado en:**    MS Edge y Firefox
 
 **Tamaño proyecto:** 17.586KB
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+**Licencia** Utilización de la licencia de la universidad de Granada.
 
 **Fecha** : 02/06/2023
 
