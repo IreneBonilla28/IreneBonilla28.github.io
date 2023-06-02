@@ -97,7 +97,7 @@ La principal motivación de este trabajo fue la canción de la artista OOHYO,Ted
 He diseñado todos los elementos del videojuego, por lo que la parte más complicada ha sido la de programación.
 Los diseños de los botones y animaciones las hice con photoshop.
 - Juego: 5 niveles para superar consiguiendo las estrellas.
-- Video: Fragmentos del personaje. Tiempo tranzcurrido mientra el avión viaja.
+- Video: Fragmentos del personaje. Tiempo transcurrido mientra el avión viaja.
 - Instrucciones y ayuda al usuario: Tutorial explicativo previo al primer nivel. Se puede saltar.
 - Menús y elementos de navegación: Contiene diversos botones con texto para realizar las funciones correspondientes del juego.
 
