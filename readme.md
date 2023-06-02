@@ -45,6 +45,8 @@ IreneBonilla28.github.io
 
 ### 2.1 Storyboard: 
 
+![story](https://github.com/IreneBonilla28/IreneBonilla28.github.io/assets/135323759/17bfa22f-5a62-435c-8387-514eab0a590a)
+![1685714743032](https://github.com/IreneBonilla28/IreneBonilla28.github.io/assets/135323759/60b8b248-48d8-4162-ac21-b5754f23a29c)
 
 
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
