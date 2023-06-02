@@ -66,9 +66,6 @@ Mi idea consistía en ilustrar el viaje de un avión de papel por el cielo. Este
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
-
-
 
 ### Etapa 1: Ideación de proyecto
 
