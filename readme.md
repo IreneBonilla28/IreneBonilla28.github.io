@@ -123,8 +123,6 @@ Me hubiera gustado poder profundizar más en la historia que planteo al inicio, 
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
 
 **Recursos y materiales audiovisuales:**
 
