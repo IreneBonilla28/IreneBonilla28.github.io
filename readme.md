@@ -133,10 +133,11 @@ Me hubiera gustado poder profundizar más en la historia que planteo al inicio, 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
--
 
 
 
+
+![HippaniAnimator5](https://github.com/IreneBonilla28/IreneBonilla28.github.io/assets/135323759/ff2ef471-9da9-4a11-9cc5-425120816103)
 
 
 https://creativecommons.org/licenses/?lang=es
