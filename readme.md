@@ -73,14 +73,14 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** Me interesa mucho el estilo que Conrad Roset utiliza para el videojugo "Gris".
 
 - https://twitter.com/ConradRoset?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+La principal motivación de este trabajo fue la canción de la artista OOHYO,Teddy Bear Rises. En la que trata de decir lo que siente porque si no,eventualmente, se compertirá en un problema para la persona que guarda esos pensamientos.Con esa premisa empecé a trabajar.
 
 
 
@@ -130,16 +130,16 @@ Me hubiera gustado poder profundizar más en la historia que planteo al inicio, 
 
 * Musica:  https://pixabay.com/es/videos/
 * Imágenes:  realizadas por Irene Bonilla Sánchez. Instagram: @boniross28
-* Tipografía: Dos tipos. A mano, hecha por Irene Bonilla
+* Tipografía: Dos tipos. A mano, hecha por Irene Bonilla y la otra es estilo, Palatino.
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+-
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+
 
 https://creativecommons.org/licenses/?lang=es
 
