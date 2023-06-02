@@ -22,11 +22,11 @@ IreneBonilla28.github.io
 **Logotipo** :  
 ![Logotipo](https://github.com/IreneBonilla28/IreneBonilla28.github.io/assets/135323759/e04afe27-2eaa-4a42-a367-c67acb92bcee)
 
-(insertar imágenes a resolucion de 100px alto)
+
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**    Google Chrome y Firefox
 
 **Tamaño proyecto:** 17.586KB
 
@@ -44,12 +44,11 @@ IreneBonilla28.github.io
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-
+Mi idea consistía en ilustrar un viaje de un avión de papel por el cielo. Este, contiene un mensaje que quieredando a entender que se prolonga en el tiempo ya 
 ![story](https://github.com/IreneBonilla28/IreneBonilla28.github.io/assets/135323759/17bfa22f-5a62-435c-8387-514eab0a590a)
 ![1685714743032](https://github.com/IreneBonilla28/IreneBonilla28.github.io/assets/135323759/60b8b248-48d8-4162-ac21-b5754f23a29c)
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
 
