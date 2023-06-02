@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## (Paper Flight)
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,13 +8,13 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Paper Flight
 
-**Web:**   (url github.io)
+**Web:**   PaperFlight.github.io
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Irene Bonilla Sánchez
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto consite en avanzar siendo un avión de papel. Busca como
 
 **Estilo/género:**  Novela / juego / portfolio / documental... etc.
 
