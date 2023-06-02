@@ -55,7 +55,7 @@ IreneBonilla28.github.io
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+
 
 
 
