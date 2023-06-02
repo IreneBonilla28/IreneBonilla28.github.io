@@ -10,8 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Paper Flight
 
-**Web:**   
-IreneBonilla28.github.io 
+**Web:**   IreneBonilla28.github.io 
 
 **Autor:**  Irene Bonilla Sánchez
 
