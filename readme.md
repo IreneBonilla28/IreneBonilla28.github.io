@@ -15,7 +15,7 @@ IreneBonilla28.github.io
 
 **Autor:**  Irene Bonilla Sánchez
 
-**Resumen** : Este proyecto consiste en avanzar siendo una carta transfromada en avión de papel. Busca como objetivo llegar al remitente de la carta, y para avanzar hay que conseguir todas las strellas de cada pantalla.
+**Resumen** : Este proyecto consiste en avanzar siendo una carta transfromada en avión de papel. Busca como objetivo llegar al destinatario de la carta, y para avanzar hay que conseguir todas las estrellas de cada pantalla.
 
 **Estilo/género:**   juego 
 
