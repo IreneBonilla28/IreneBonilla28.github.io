@@ -80,7 +80,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-La principal motivación de este trabajo fue la canción de la artista OOHYO,Teddy Bear Rises. En la que trata de decir lo que siente porque si no,eventualmente, se compertirá en un problema para la persona que guarda esos pensamientos.Con esa premisa empecé a trabajar.
+La principal motivación de este trabajo fue la canción de la artista OOHYO,Teddy Bear Rises. En la canción cuenta la historia de una persona que trata de decir lo que siente por otra pero no puede. Así que la anima a hacerlo porque si no,eventualmente, se compertirá en un problema para ella. Con esa premisa empecé a trabajar.
 
 
 
