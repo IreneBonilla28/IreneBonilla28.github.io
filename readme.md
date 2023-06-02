@@ -40,7 +40,6 @@ IreneBonilla28.github.io
 
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
@@ -87,7 +86,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a público de todas las edades. Tiene unos controles muy fácil de usar, por lo que se recomienda a todo el mundo.
 
 
 
@@ -95,8 +94,8 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
+He diseñado todos los elementos del videojuego, por lo que la parte más complicada ha sido la de progrmación.
+Los diseños de los botones y animaciones, las hice con photoshop.
 - Juego. 
 - Video 
 - Instrucciones y ayuda al usuario 
@@ -125,13 +124,12 @@ Este  proyecto es interesante porque ...
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:  https://pixabay.com/es/videos/
+* Imágenes:  realizadas por Irene Bonilla Sánchez. Instagram: @boniross28
+* Tipografía: Dos tipos. A mano, hecha por Irene Bonilla
 
 **Herramientas utilizadas**
 
